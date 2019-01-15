@@ -4,7 +4,7 @@ body {
 
   font-size: 20px;
   line-height: 1.2;
-  font-family: Stolz Light, serif;
+  font-family: Palatino Linotype, serif;
   color: #000000;
 
 
@@ -16,18 +16,18 @@ body {
 
 main {
   padding: 40px;
-  font-family: Stolz Light, serif;
+  font-family: Palatino Linotype, serif;
 }
 
 h1 {
   margin: 0;
   font-weight: normal;
-  font-family: Stolz Light, serif;
+  font-family: Palatino Linotype, serif;
 }
 
 p {
   margin: 20px 0;
-  font-family: Stolz Light, serif;
+  font-family: Palatino Linotype, serif;
 }
 
 a:link, a:visited {
