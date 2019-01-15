@@ -4,8 +4,9 @@ body {
 
   font-size: 20px;
   line-height: 1.2;
-  font-family: Helvetica, serif;
+  font-family: Stolz Light, serif;
   color: #000000;
+
 
   background-color: #ffffff;
   
@@ -15,18 +16,18 @@ body {
 
 main {
   padding: 40px;
-  font-family: Helvetica, serif;
+  font-family: Stolz Light, serif;
 }
 
 h1 {
   margin: 0;
   font-weight: normal;
-  font-family: Helvetica, serif;
+  font-family: Stolz Light, serif;
 }
 
 p {
   margin: 20px 0;
-  font-family: Helvetica, serif;
+  font-family: Stolz Light, serif;
 }
 
 a:link, a:visited {
